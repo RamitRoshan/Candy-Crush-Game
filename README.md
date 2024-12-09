@@ -31,3 +31,4 @@ This is a simple browser-based Candy Crush game clone built using HTML, CSS, and
 )
 
 ## Live Demo::
+Check out live demo here : [Candy Crush](https://candy-crush-game-swart.vercel.app/)
